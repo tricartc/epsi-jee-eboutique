@@ -19,6 +19,5 @@
   
   <modules>
     <module>eboutique-web</module>
-    <module>eboutique-business</module>
   </modules>
 </project>
