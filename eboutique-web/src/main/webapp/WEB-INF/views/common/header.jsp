@@ -1,5 +1,5 @@
 <%@ page isELIgnored="false"  %>
-<%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>
+<%@ taglib uri = "http://java.sun.com/jstl/core_rt" prefix = "c" %>
 <header class="header-section">
 	<div class="header-top">
 		<div class="container">
@@ -14,8 +14,7 @@
 		<div class="container">
 			<nav class="nav">
 				<!-- Afficher la liste des marques en exploitant l'attribut marque en utilisant c:forEach  -->
-				<a class="nav-link active" href="#">Afficher les marques</a>
-				
+				<a class="nav-link" href="#">Une marque</a>
 			</nav>
 		</div>
 	</nav>

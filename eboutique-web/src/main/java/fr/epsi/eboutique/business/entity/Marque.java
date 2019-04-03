@@ -4,11 +4,11 @@ import java.util.List;
 
 public class Marque {
 
-  private List<Produit> produits;
-  
   private Long identifier;
   
   private String libelle;
+  
+  private List<Produit> produits;
 
   public Long getIdentifier() {
     return identifier;
