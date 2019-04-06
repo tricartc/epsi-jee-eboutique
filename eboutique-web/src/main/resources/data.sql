@@ -1,4 +1,4 @@
-INSERT INTO boutique.marque (identifier, libelle) VALUES 
+INSERT INTO boutique.marque (id, libelle) VALUES 
 (1,'Samsung')
 ,(2, 'Google')
 ;
