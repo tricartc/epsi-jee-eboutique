@@ -11,13 +11,9 @@
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
   </properties>
-  <!-- 
-  <parent>
-    <groupId>fr.epsi.eboutique</groupId>
-    <artifactId>eboutique-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-  </parent>
-   -->
+      <groupId>fr.epsi.eboutique</groupId>
+  <version>0.0.1-SNAPSHOT</version>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
